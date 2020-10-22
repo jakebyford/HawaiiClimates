@@ -53,15 +53,15 @@ Basic Setup for Python/Flask API \
 \
 Run in the Terminal and display as server\
 ![](Images/terminal.png)
-\
+
 
 ## Step 3: Run the application
-#### Run Flask API from terminal\
-![](Images/api.png)\
-#### Basic Setup for Jupyter Notebook\
+#### Run Flask API from terminal
+![](Images/api.png)
+#### Basic Setup for Jupyter Notebook
 ![](Images/dependencies.png)
 \
-#### Run 'climate_starter.ipynb'\
+#### Run 'climate_starter.ipynb'
 ![](Images/last_twelve_months_precipitation.png)\
 ![](Images/temps_in_hawaii_2010_until_2017.png)\
 
