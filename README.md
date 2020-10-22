@@ -1,16 +1,16 @@
 # Hawaii Climate Analysis & Exploration Overview
-* Python and SQLAlchemy used for a climate analysis of precipitation and station activity in Hawaii within a 12-month timeframe.
+Python and SQLAlchemy used for a climate analysis of precipitation and station activity in Hawaii within a 12-month timeframe.
 
 Queries designed in a Jupyter Notebook sourced in a .sqlite file.
 
 The following languages used to organize and visualize data: SQLAlchemy queries, Pandas, and Matplotlib.
 
-Precipitation Analysis covers 
+### Precipitation Analysis covers 
 * 12 months of precipitation data
 * Pandas DataFrames to sort values
-* Summary Statistics of events\
+* Summary Statistics of events
 
-Station Analysis covers
+### Station Analysis covers
 * Total Number of Stations
 * Sort the most active stations
 * 12 months of temperature data
@@ -46,22 +46,22 @@ $ pip install seaborn
 $ pip install sqlalchemy
 ```
 ![](Images/Percent_Death_US_Age_Group.png)
-\
+
 ## Step 2: Setup
 Basic Setup for Python/Flask API \
 ![](Images/flask.png)
 \
-Run in the Terminal and display as server/
+Run in the Terminal and display as server\
 ![](Images/terminal.png)
 \
 
 ## Step 3: Run the application
-Run Flask API from terminal\
+#### Run Flask API from terminal\
 ![](Images/api.png)\
-Basic Setup for Jupyter Notebook\
+#### Basic Setup for Jupyter Notebook\
 ![](Images/dependencies.png)
 \
-Run 'climate_starter.ipynb'\
+#### Run 'climate_starter.ipynb'\
 ![](Images/last_twelve_months_precipitation.png)\
 ![](Images/temps_in_hawaii_2010_until_2017.png)\
 
