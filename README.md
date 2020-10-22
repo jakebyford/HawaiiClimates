@@ -60,9 +60,9 @@ Run in the Terminal and display as server\
 ![](Images/api.png)
 #### Basic Setup for Jupyter Notebook
 ![](Images/dependencies.png)
-\
+
 #### Run 'climate_starter.ipynb'
 ![](Images/last_twelve_months_precipitation.png)\
-![](Images/temps_in_hawaii_2010_until_2017.png)\
+![](Images/temps_in_hawaii_2010_until_2017.png)
 
 
